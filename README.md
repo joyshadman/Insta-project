@@ -8,6 +8,6 @@ Key Features
 ✔ Lead Generation – Call-to-action (CTA) sections to capture potential clients.
 ✔ Testimonials & Trust Signals – Social proof to boost credibility.
 
-🚀 Live Demo: https://joyshadman.github.io/Insta-project/
+🚀 Live Demo: insta-project-tau.vercel.app
 
 Perfect for agencies offering Instagram growth services, audience targeting, or content strategies. Contributions and feedback welcome!
